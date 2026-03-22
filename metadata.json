@@ -1,0 +1,7 @@
+{
+  "name": "Homiq",
+  "description": "Smart Household Inventory, Grocery, and Task Management System",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
